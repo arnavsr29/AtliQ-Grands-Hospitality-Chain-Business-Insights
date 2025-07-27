@@ -2,9 +2,7 @@
 
 ## Overall Analysis View
 
-<p align="center">
-    <img src="D:\AtliQ Grands – Hospitality Chain Business Insights\Overall analysis.png">
-</p>
+<img width="1316" height="707" alt="Overall analysis" src="https://github.com/user-attachments/assets/f708c823-577b-4196-84bc-4e6ad207607a" />
 
 In the fast-paced world of luxury hotels, Atliq Grands is a chain who owns multiple five-star hotels. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. Below is a quick glimpse of some noteworthy facts about AtliQ Grands:
 
@@ -27,16 +25,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-<p align="center">
-    <img src="D:\AtliQ Grands – Hospitality Chain Business Insights\mock up dashboard_atliq grands.png">
-</p>
+
+<img width="1277" height="800" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/1d55f34b-9ae2-4a3f-bd87-178834795d2c" />
 
 
 ## Data Model
 
-<p align="center">
-    <img src="D:\AtliQ Grands – Hospitality Chain Business Insights\data_model.png">
-</p>
+<img width="334" height="338" alt="data_model" src="https://github.com/user-attachments/assets/0486ebbb-a8a6-4274-94a5-322f836ce10d" />
 
 ### Key Financial Metrics
 - Revenue, RevPAR (Revenue per available room), ADR (Average Daily Rate).
